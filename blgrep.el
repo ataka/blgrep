@@ -1,8 +1,8 @@
 ;;; blgrep.el --- Block grep -*-emacs-lisp-*-
 
-;; Copyright (C) 2004, 2005 Masayuki Ataka <ataka@milk.freemail.ne.jp>
+;; Copyright (C) 2004, 2005 Masayuki Ataka <masayuki.ataka@gmail.com>
 
-;; Author: Masayuki Ataka <ataka@milk.freemail.ne.jp>
+;; Author: Masayuki Ataka <masayuki.ataka@gmail.com>
 ;; Keywords: tools, convenience
 
 ;; This file is not part of GNU Emacs.
