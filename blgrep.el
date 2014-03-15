@@ -1,4 +1,5 @@
-;;; blgrep.el --- Block grep -*-emacs-lisp-*-
+;;; blgrep.el --- Block grep
+;; -*- Mode: Emacs-Lisp -*-
 
 ;; Copyright (C) 2004, 2005 Masayuki Ataka <masayuki.ataka@gmail.com>
 
