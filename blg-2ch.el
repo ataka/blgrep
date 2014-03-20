@@ -1,4 +1,5 @@
-;;; blg-2ch.el --- 2ch grep -*-emacs-lisp-*-
+;;; blg-2ch.el --- 2ch grep
+;; -*- Mode: Emacs-Lisp -*-
 
 ;; Copyright (C) 2005 Masayuki Ataka <masayuki.ataka@gmail.com>
 

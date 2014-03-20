@@ -1,9 +1,11 @@
-;;; clgrep.el --- ChangeLog Memo grep -*-emacs-lisp-*-
+;;; clgrep.el --- ChangeLog Memo grep
+;; -*- Mode: Emacs-Lisp -*-
 
 ;; Copyright (C) 2004, 2005 Masayuki Ataka <masayuki.ataka@gmail.com>
 
 ;; Author: Masayuki Ataka <masayuki.ataka@gmail.com>
 ;; Keywords: tools, convenience
+;; Package-Requires: ((clmemo "20140314.353"))
 
 ;; This file is a part of blgrep.
 
