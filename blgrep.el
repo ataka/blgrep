@@ -5,6 +5,7 @@
 
 ;; Author: Masayuki Ataka <masayuki.ataka@gmail.com>
 ;; Keywords: tools, convenience
+;; Package-Requires: ((clmemo "20140321.715"))
 
 ;; This file is not part of GNU Emacs.
 
