@@ -39,7 +39,7 @@
 ;; Memo mode).  So you need clmemo.el for compiling and using clgrep.el.
 ;; The latest clmemo.el is available at:
 ;;
-;;   http://isweb22.infoseek.co.jp/computer/pop-club/emacs/changelog.html
+;;   https://github.com/ataka/clmemo
 ;;
 ;; * Frontends of clgrep
 ;;
